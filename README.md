@@ -1,24 +1,11 @@
-# hello-world
-Test activities in GitHub
+# Hello World Activities
+This repository is to start new languages, tools and etc.
 
-## The way to git clone
+## Tools
+- github: https://guides.github.com/activities/hello-world/
 
-git protocol used for git clone, git fetch and git pull in general.
-  - git clone git://github.com/bidtt4/hello-world && cd hello-world
-
-https protocol should used for git push. ssh protocol may not work.
-  - git remote set-url --push origin https://github.com/bidtt4/hello-world && git config --local -l
-
-## Syncing a fork
-
-configure a remote for the fork
-  - git remote add upstream https://github.com/jsmoon/hello-world
-
-syncing the fork
-  - git fetch upstream && git checkout master && git merge upstream/master
-  - git push origin master
-
-## 
-## Udate test
-## Test direct pull request
-## Test direct pull request - upstream
+## Languages
+- C,C++
+- Python
+- HTML
+- JavaScript
